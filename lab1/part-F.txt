@@ -1,0 +1,23 @@
+Question 1: Which class is the parent class?
+
+Answer: Person
+
+Question 2: Which class is the child class?
+
+Answer: Student
+
+Question 3: Which keyword creates the inheritance relationship?
+
+Answer: extends
+
+Question 4: The introduce() method was written inside which class?
+
+Answer: Person
+
+Question 5: Can the $student1 object call introduce()?
+
+Answer: Yes
+
+Question 6: Why can $student1 use introduce() even though it is not written inside the Student class?
+
+Answer: Because the Student class extends the Person class and inherits its methods.
