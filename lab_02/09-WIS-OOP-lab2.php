@@ -1,7 +1,6 @@
 <?php
 
-// Full Name: Your Full Name
-// Student ID: Your Student ID
+
 
 
 // Task 1
