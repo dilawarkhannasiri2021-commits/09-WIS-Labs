@@ -1,8 +1,7 @@
 <?php
 
 // Task 3
-// Full Name: Your Full Name
-// Student ID: Your Student ID
+
 
 abstract class Vehicle
 {
