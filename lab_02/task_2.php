@@ -1,8 +1,7 @@
 <?php
 
 // Task 2
-// Full Name: Your Full Name
-// Student ID: Your Student ID
+
 
 class StudentCounter
 {
