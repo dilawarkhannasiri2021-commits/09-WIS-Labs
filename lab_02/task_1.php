@@ -1,8 +1,7 @@
 <?php
 
 // Task 1
-// Full Name: Your Full Name
-// Student ID: Your Student ID
+
 
 class Library
 {
